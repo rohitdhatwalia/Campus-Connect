@@ -4,7 +4,7 @@ Demo website : https://mern-social-media-sdp.herokuapp.com/
 A MERN stack based project on social media application. It is completely working project. Its' completely responsive application.
 MongoDB Express React Redux NodeJs are user in this project.
 
-# Featurs included in this project:
+# Features included in this project:
 
 **user features:**
  - register and login users. 
@@ -52,8 +52,8 @@ MongoDB Express React Redux NodeJs are user in this project.
  - NPM
 
 **How to run this application**
-1.  Make sure MongoDB is running on your system or online.
-2. include MongoDB database link in .env file.
+1. Make sure MongoDB is running on your system or online.
+2. Include MongoDB database link in .env file.
 3. Add cloudinary data in /client/src/utils/imageUpload.js file.
 4. Clone this repository
 5. Open command line in the cloned folder,
